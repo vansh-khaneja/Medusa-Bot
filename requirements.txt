@@ -1,0 +1,13 @@
+requests
+langchain
+langchain-openai
+langchain-community
+langgraph
+langgraph-checkpoint-redis
+typing-extensions
+fastapi
+uvicorn
+pydantic
+python-dotenv
+qdrant-client
+redis
